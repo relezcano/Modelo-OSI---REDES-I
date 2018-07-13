@@ -55,7 +55,3 @@ class Capa_red():
 
 
 capaRed = Capa_red()
-
-
-# hacer funciones (def) para las variables de 1, 2, 4 y 8 caracteres. Que calcule el len() de la variable y se fije si coincide
-# con el len() de la funcion. entonces si tiene mas de esa cantidad de caracteres te dice que es incorrecto y que debe tener tantos char.
