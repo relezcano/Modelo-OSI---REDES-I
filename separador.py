@@ -8,17 +8,18 @@ __email__ = "relezcano369@gmail.com"
 __materia__ = "Redes I"
 __profesor__ = "Federico Martiniau"
 
-
 import sys, os
+
 
 def stream_to_array(stream):
     # print "--------------------------------------------"
     # stream = raw_input("Ingrese numeros: ")
     array = list(stream)
     return array
-    # print ""
+    # print "
     # print "El arreglo es: ",array
     # print ""
+
 
 def array_to_stream(array):
     # print "--------------------------------------------------------"
@@ -32,7 +33,6 @@ def array_to_stream(array):
     stream = []
 
     for i in array:
-
         stream.append(i)
 
     # print ""
@@ -40,7 +40,6 @@ def array_to_stream(array):
     # print "La cadena es: ",stream
     # print ""
     exit()
-
 
 # print ""
 # print "@-------------------------------------@"
